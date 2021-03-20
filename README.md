@@ -2,6 +2,7 @@
 - 👀 I’m interested in *Javascript*, *Java*, *React* and *Linux*
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on web projects
+
 ``
 function helloWorld(value){
     console.log(`Olá ${value}, seja bem vindo!!`);
