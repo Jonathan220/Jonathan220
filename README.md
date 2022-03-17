@@ -1,4 +1,4 @@
-<h1 style="align: center" > Olá, eu sou Jonathan Abreu, desenvolvedor júnior e apaixonado por linux </h1>
+<h1 style="align: center" > Olá, eu sou Jonathan Abreu, Analista de Sistemas júnior e apaixonado por linux </h1>
 
 <div align="center">
   <a href="https://github.com/jonathan220">
