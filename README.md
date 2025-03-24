@@ -1,4 +1,18 @@
-<h1 style="align: center" > Olá, eu sou Jonathan Abreu, Analista de Sistemas júnior e apaixonado por linux </h1>
+### linguages and tools
+<div align="left">
+  <p>
+    <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
+    <img height="25" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" title="spring" alt="spring" /></code>
+    <img height="25" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" title="HTML" alt="HTML" /></code>
+    <img height="25" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="css" alt="css" /></code>
+    <img height="25" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="python" alt="python" /></code>
+    <img height="25" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" title="docker" alt="docker" /></code>
+    <img height="25" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="mongodb" alt="mongodb" /></code>
+
+  https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg
+
+  </p>  
+</div>
 
 <div align="center">
   <a href="https://github.com/jonathan220">
