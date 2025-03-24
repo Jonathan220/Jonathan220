@@ -8,9 +8,6 @@
     <img height="25" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="python" alt="python" /></code>
     <img height="25" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" title="docker" alt="docker" /></code>
     <img height="25" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="mongodb" alt="mongodb" /></code>
-
-  https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg
-
   </p>  
 </div>
 
